@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-hyphen-thai
 Version:	20131011
-Release:	1
+Release:	2
 Summary:	Thai hyphenation patterns
 Group:		Publishing
 URL:		http://tug.org/texlive
