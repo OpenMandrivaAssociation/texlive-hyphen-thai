@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-hyphen-thai
-Version:	20170414
+Version:	20180409
 Release:	1
 Summary:	Thai hyphenation patterns
 Group:		Publishing
